@@ -1,0 +1,83 @@
+#foto{
+    width: 125px;
+    height: 115px;
+    border-radius: 50%;
+    margin-left: 7%;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    display: flex;
+}
+.cabecalho{
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 4%;
+}
+#nome{
+    letter-spacing: 5px;
+    line-height: 1.5em;
+}
+.sobre{
+    border-color: rgb (99, 166, 243);
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.formacao{
+    border-color: rgb (84, 187, 255);
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.mechama{ 
+    border-color: rgb (84, 187, 255);
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+.objetivo{
+border-color: rgb (84, 187, 255);
+border-width: 6px;
+border-style: ridge;
+width: 50%;
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 1px;
+margin-bottom: 4%;
+margin-left: 4%;
+margin-right: 4%;
+text-align: center;
+}
